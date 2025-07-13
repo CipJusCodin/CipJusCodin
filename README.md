@@ -10,7 +10,6 @@ ___
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<img src="https://user-images.githubusercontent.com/82146140/205825785-6a82e3c6-2de9-418f-9d34-491393b33b72.gif" width="150px"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
